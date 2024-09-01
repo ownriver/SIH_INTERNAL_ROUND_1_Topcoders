@@ -22,6 +22,5 @@ This README provides an overview of the project, including team details, relevan
 - **Internal Presentation:** [Internal Presentation](https://github.com/ownriver/Team_Topcoders/blob/main/files/INTERNAL_PPT_Topcoders.pdf))
 - **Final SIH Presentation:** [Final SIH Presentation](https://github.com/ownriver/Team_Topcoders/blob/main/files/SIH_PPT_Topcoders.pdf)
 - **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=sGwE_axStU8)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Source Code:** [GitHub Repository]((https://github.com/mohammadBilal03/Clock_App))
+- **Source Code:** [GitHub Repository](https://github.com/mohammadBilal03/Clock_App)
 - **Additional Resources:** [Other Relevant Links](https://github.com/ownriver/Team_Topcoders/tree/main/codes/Clock%20App)
