@@ -21,7 +21,7 @@ This README provides an overview of the project, including team details, relevan
 
 - **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
 - **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
+- **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=sGwE_axStU8)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
 - **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
 - **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
