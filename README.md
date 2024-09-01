@@ -10,12 +10,12 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - 2023UCS1582 - [@ownriver](https://github.com/ownriver)
-- **MEMBER_2** - 2023UCS1610 - [@Zardari9](https://github.com/Zardari9)
-- **MEMBER_3** - 2023UEC2584 - [@Khushi-monga](https://github.com/Khushi-monga)
-- **MEMBER_4** - 2023UCS1502 - [@UJJAWALX42](https://github.com/UJJAWALX42)
-- **MEMBER_5** - 2023UCD2156 - [@shuklaafk](https://github.com/shuklaafk)
-- **MEMBER_6** - 2023UCS1638 - [@mohammadBilal03](https://github.com/mohammadBilal03)
+- Amaan Aijaz - 2023UCS1582 - [@ownriver](https://github.com/ownriver)
+- Mohammad Asif - 2023UCS1610 - [@Zardari9](https://github.com/Zardari9)
+- Khushi Monga - 2023UEC2584 - [@Khushi-monga](https://github.com/Khushi-monga)
+- Ujjawal Kumar - 2023UCS1502 - [@UJJAWALX42](https://github.com/UJJAWALX42)
+- Shukla Shukla - 2023UCD2156 - [@shuklaafk](https://github.com/shuklaafk)
+- Mohammad Bilal - 2023UCS1638 - [@mohammadBilal03](https://github.com/mohammadBilal03)
 
 ## Project Links
 
