@@ -2,6 +2,27 @@
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
+### *Hardware*:
+1. *Buzzer*
+2. *Pushbuttons*
+3. *LCD Module*
+4. *I2C Converter*
+
+### *Software*:
+1. *Arduino IDE*
+2. *IoT Web Service*: Arduino IoT Cloud
+3. *Libraries Used*:
+   - time.h
+   - LiquidCrystal_I2C.h
+   - ArduinoIoTCloud.h
+   - Arduino_ConnectionHandler.h
+4. *Web Services Used*:
+   - RTC Servers: "pool.ntp.org", "time.nist.gov"
+5. *React Native Framework* (with HTML, CSS, and JavaScript)
+6. *Android Studio* (used for the emulator)
+
+WE HAVE A FULLY FUNTIONING ANDROID APP WHICH IS INTEGRATED WITH THE IoT WEB SERVICE WHICH CAN BE USED TO ACCESS FUNCTIONALITIES OF ALARM CLOCK REMOTELY ON THE GO.
+
 ## Team Details
 
 **Team Name:** TEAM_Topcoders
