@@ -2,7 +2,7 @@
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
-WE HAVE A FULLY FUNTIONING ANDROID APP WHICH IS INTEGRATED WITH THE IoT WEB SERVICE WHICH CAN BE USED TO ACCESS FUNCTIONALITIES OF ALARM CLOCK REMOTELY ON THE GO.
+We have created a fully functioning android application which is thereby integrated with the IoT web services which can be used to access the various functionalities on the Smart Alarm Clock remotely on the go.
 
 ## Team Details
 
