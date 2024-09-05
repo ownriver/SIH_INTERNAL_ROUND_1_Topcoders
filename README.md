@@ -27,6 +27,53 @@ We have created a fully functioning android application which is thereby integra
 - **Source Code:** [GitHub Repository](https://github.com/mohammadBilal03/Clock_App)
 - **Additional Resources:** [Other Relevant Links](https://github.com/ownriver/Team_Topcoders/tree/main/codes/Clock%20App)
 
+--------------------------------------------------------------------------------------------------
+
+**STEPS TO RUN CUSTOM MADE APPLICATION MADE USING REACT NATIVE FRAMEWORK & ANDROID STUDIO**
+
+1. Open Android studios on your computer.
+2. Click on the hamburger icon located at the top left corner .
+3. Navigate to tools and select the Device Manager option.
+4. Now, click on the Wifi Icon labelled as "Pair Devices Using Wifi".
+5. You will see two options displayed:
+       (a) Pair using QR Code.
+       (b) Pair using Pairing Code.
+6. On your mobile phone, go to Settings > Developer Options > Wireless Debugging 
+7. Select the option in your  mobile which was chosen in Android studio to pair mobile with Android studio successfully.
+8. It is now paired over Wifi.
+
+Alternate method:
+
+Simply connect your mobile phone to your computer through the USB, and you will be able to run the programs directly from Android Studio,
+without the requirement of the additional setup.
+
+---------------------------------------------------------------------------------------------------------
+**STEPS TO RUN THE WEBSITE**
+
+For Arduino Website & App, follow the steps given below: 
+
+• Website 
+
+1. Firstly, Go to cloud.arduino.cc 
+2. ⁠sign in using the following username and password given below: 
+-> username: glucond49@gmail.com
+-> password: password@05
+3. Thereafter, click on dashboard icon on the left sidebar 
+4. ⁠ Click on Alarm_Clock_IoT 
+You now have access to all the features of the IoT based alarm clock using the website. 
+
+• Application 
+
+1. Download the following application: Arduino IoT Cloud Remote 
+2. ⁠sign in using the following username and password given below: 
+-> username: glucond49@gmail.com
+-> password: password@05
+3. Thereafter, click on dashboard icon on the left sidebar 
+4. ⁠ Click on Alarm_Clock_IoT 
+You now have access to all the features of the IoT based alarm clock using the application.
+
+-----------------------------------------------------------------------------------------------------------
+
 **Tech Stacks Used**
 - ### *Hardware*:
 1. *Buzzer*
