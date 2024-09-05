@@ -29,7 +29,7 @@ We have created a fully functioning android application which is thereby integra
 
 --------------------------------------------------------------------------------------------------
 
-**STEPS TO RUN CUSTOM MADE APPLICATION MADE USING REACT NATIVE FRAMEWORK & ANDROID STUDIO**
+**STEPS TO RUN CUSTOM APPLICATION MADE USING REACT NATIVE FRAMEWORK & ANDROID STUDIO**
 
 1. Open Android studios on your computer.
 2. Click on the hamburger icon located at the top left corner .
