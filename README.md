@@ -80,6 +80,7 @@ You now have access to all the features of the IoT based alarm clock using the a
 2. *Pushbuttons*
 3. *LCD Module*
 4. *I2C Converter*
+5. *ESP32*
 
 ### *Software*:
 1. *Arduino IDE*
