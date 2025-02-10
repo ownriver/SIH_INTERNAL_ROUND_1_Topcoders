@@ -1,4 +1,4 @@
-# Develop a Cloud-Integrated IoT Alarm Clock with Dashboard Integration
+# Cloud-Integrated IoT Alarm Clock with Dashboard Integration
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
